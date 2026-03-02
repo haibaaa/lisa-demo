@@ -1,0 +1,6 @@
+# lisa.toml
+# to sync with lisa run 'mona sync'
+# supported types: string, int, float, bool, inline table (json)
+
+feature_x_enabled = false
+theme = "dark"
