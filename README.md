@@ -27,12 +27,10 @@ The demo consists of:
 ## Setup
 
 ### 1. Create a Lisa project
-
-With the Lisa backend running locally:
-
 ```bash
 curl -X POST https://lisa-aopa.onrender.com/create/<project_name>
 ````
+
 > [!CAUTION] Response (shown once):
 
 ```json
